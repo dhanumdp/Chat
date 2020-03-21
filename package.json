@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanumdp/Chat.git"
+  },
+  "author": "Dhanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhanumdp/Chat/issues"
+  },
+  "homepage": "https://github.com/dhanumdp/Chat#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.5",
+    "socket.io": "^2.3.0"
+  }
+}
